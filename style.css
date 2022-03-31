@@ -40,7 +40,6 @@ body {
     font-weight: 400;
     font-family: 'Lexend Deca', sans-serif;
     font-size: 15px;
-    max-width: 210px;
     line-height: 25px;
 }
 
@@ -112,9 +111,5 @@ body {
     .section-wrapper:last-child {
         border-top-right-radius: 0;
         border-bottom-left-radius: var(--border-radius);
-    }
-
-    .section-description {
-        max-width: 2000px;
     }
 }
